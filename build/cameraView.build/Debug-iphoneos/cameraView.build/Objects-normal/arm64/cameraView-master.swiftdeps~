@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "4744c47e34635863058ecc30ced9bae1"
+build_time: [546930657, 58184000]
+inputs:
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/cameraView/ViewController.swift": [546930056, 0]
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/cameraView/AppDelegate.swift": [546927369, 0]

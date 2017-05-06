@@ -1,0 +1,144 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-Swift.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Headers/GTMSessionFetcher-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher-umbrella.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Target Support Files/GTMSessionFetcher/GTMSessionFetcher-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcher.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GTMSessionFetcher/Source/GTMSessionFetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherLogging.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GTMSessionFetcher/Source/GTMSessionFetcherLogging.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionFetcherService.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GTMSessionFetcher/Source/GTMSessionFetcherService.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMSessionUploadFetcher.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GTMSessionFetcher/Source/GTMSessionUploadFetcher.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GTMSessionFetcher/GTMSessionFetcher.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GTMDefines.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GoogleToolboxForMac/GTMDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "GTMNSData+zlib.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/GoogleToolboxForMac/Foundation/GTMNSData+zlib.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-Swift.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Headers/GoogleToolboxForMac-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GoogleToolboxForMac-umbrella.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Target Support Files/GoogleToolboxForMac/GoogleToolboxForMac-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/GoogleToolboxForMac/GoogleToolboxForMac.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Pods.build/Debug-iphonesimulator/GoogleToolboxForMac.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/Pods_cameraView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-cameraView-umbrella.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Target Support Files/Pods-cameraView/Pods-cameraView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_cameraView-Swift.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/Pods_cameraView.framework/Headers/Pods_cameraView-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/Pods_cameraView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Pods.build/Debug-iphonesimulator/Pods-cameraView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyCam-Swift.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Headers/SwiftyCam-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyCam-umbrella.h",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Target Support Files/SwiftyCam/SwiftyCam-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Pods.build/Debug-iphonesimulator/SwiftyCam.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

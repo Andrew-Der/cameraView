@@ -1,0 +1,8 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "8afa0a3b7fed7f0d3c8850e1f1b59363"
+build_time: [546926072, 355557000]
+inputs:
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/SwiftyCam/Source/PreviewView.swift": [546922890, 0]
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/SwiftyCam/Source/SwiftyCamButton.swift": [546922890, 0]
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/SwiftyCam/Source/SwiftyCamViewController.swift": [546922890, 0]
+  "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/SwiftyCam/Source/SwiftyCamViewControllerDelegate.swift": [546922890, 0]

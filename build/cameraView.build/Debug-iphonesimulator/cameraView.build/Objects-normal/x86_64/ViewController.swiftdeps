@@ -1,0 +1,401 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MyCameraViewController"
+provides-nominal:
+- "C10cameraView22MyCameraViewController"
+provides-member:
+- ["C10cameraView22MyCameraViewController", ""]
+provides-dynamic-lookup:
+- "didReceiveMemoryWarning"
+- "swiftyCam"
+- "viewDidLoad"
+depends-top-level:
+- "CGFloat"
+- "CGPoint"
+- !private "Data"
+- !private "FIRStorage"
+- "MyCameraViewController"
+- !private "StringLiteralType"
+- "SwiftyCamViewController"
+- "UIImage"
+- "UIViewController"
+- "URL"
+depends-member:
+- ["PSo36AVCaptureFileOutputRecordingDelegate", "CameraSelection"]
+- ["Ps9AnyObject", "CameraSelection"]
+- !private ["Ps9AnyObject", "Data"]
+- !private ["Ps9AnyObject", "FIRStorage"]
+- !private ["Ps9AnyObject", "child"]
+- !private ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- !private ["Ps9AnyObject", "downloadURL"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "put"]
+- !private ["Ps9AnyObject", "reference"]
+- !private ["Ps9AnyObject", "storage"]
+- !private ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23BidirectionalCollection", "init"]
+- ["Ps7CVarArg", "CameraSelection"]
+- !private ["Ps7CVarArg", "Data"]
+- !private ["Ps7CVarArg", "FIRStorage"]
+- !private ["Ps7CVarArg", "child"]
+- !private ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- !private ["Ps7CVarArg", "downloadURL"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "put"]
+- !private ["Ps7CVarArg", "reference"]
+- !private ["Ps7CVarArg", "storage"]
+- !private ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "CameraSelection"]
+- !private ["Ps28CustomDebugStringConvertible", "Data"]
+- !private ["Ps28CustomDebugStringConvertible", "FIRStorage"]
+- !private ["Ps28CustomDebugStringConvertible", "child"]
+- !private ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps28CustomDebugStringConvertible", "downloadURL"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "put"]
+- !private ["Ps28CustomDebugStringConvertible", "reference"]
+- !private ["Ps28CustomDebugStringConvertible", "storage"]
+- !private ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "CameraSelection"]
+- !private ["Ps23CustomStringConvertible", "Data"]
+- !private ["Ps23CustomStringConvertible", "FIRStorage"]
+- !private ["Ps23CustomStringConvertible", "child"]
+- !private ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["Ps23CustomStringConvertible", "downloadURL"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "put"]
+- !private ["Ps23CustomStringConvertible", "reference"]
+- !private ["Ps23CustomStringConvertible", "storage"]
+- !private ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["V10Foundation4Data", "init"]
+- ["Ps9Equatable", "CameraSelection"]
+- !private ["Ps9Equatable", "Data"]
+- !private ["Ps9Equatable", "FIRStorage"]
+- !private ["Ps9Equatable", "child"]
+- !private ["Ps9Equatable", "didReceiveMemoryWarning"]
+- !private ["Ps9Equatable", "downloadURL"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "put"]
+- !private ["Ps9Equatable", "reference"]
+- !private ["Ps9Equatable", "storage"]
+- !private ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["CSo10FIRStorage", "reference"]
+- !private ["CSo10FIRStorage", "storage"]
+- !private ["CSo18FIRStorageMetadata", "downloadURL"]
+- !private ["CSo19FIRStorageReference", "child"]
+- !private ["CSo19FIRStorageReference", "put"]
+- ["Ps8Hashable", "CameraSelection"]
+- !private ["Ps8Hashable", "Data"]
+- !private ["Ps8Hashable", "FIRStorage"]
+- !private ["Ps8Hashable", "child"]
+- !private ["Ps8Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps8Hashable", "downloadURL"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "put"]
+- !private ["Ps8Hashable", "reference"]
+- !private ["Ps8Hashable", "storage"]
+- !private ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "init"]
+- ["C10cameraView22MyCameraViewController", "CGFloat"]
+- ["C10cameraView22MyCameraViewController", "CGPoint"]
+- !private ["C10cameraView22MyCameraViewController", "Data"]
+- !private ["C10cameraView22MyCameraViewController", "FIRStorage"]
+- ["C10cameraView22MyCameraViewController", "SwiftyCamViewController"]
+- ["C10cameraView22MyCameraViewController", "UIImage"]
+- ["C10cameraView22MyCameraViewController", "URL"]
+- ["C10cameraView22MyCameraViewController", "deinit"]
+- ["C10cameraView22MyCameraViewController", "didReceiveMemoryWarning"]
+- ["C10cameraView22MyCameraViewController", "init"]
+- ["C10cameraView22MyCameraViewController", "swiftyCam"]
+- ["C10cameraView22MyCameraViewController", "viewDidLoad"]
+- ["PSo8NSCoding", "CameraSelection"]
+- !private ["PSo8NSCoding", "Data"]
+- !private ["PSo8NSCoding", "FIRStorage"]
+- !private ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "downloadURL"]
+- !private ["PSo9NSCopying", "init"]
+- ["PSo26NSExtensionRequestHandling", "CameraSelection"]
+- !private ["PSo26NSExtensionRequestHandling", "Data"]
+- !private ["PSo26NSExtensionRequestHandling", "FIRStorage"]
+- !private ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "CGFloat"]
+- ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "CameraSelection"]
+- !private ["CSo8NSObject", "Data"]
+- !private ["CSo8NSObject", "FIRStorage"]
+- ["CSo8NSObject", "SwiftyCamViewController"]
+- ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "URL"]
+- !private ["CSo8NSObject", "child"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "downloadURL"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "put"]
+- !private ["CSo8NSObject", "reference"]
+- !private ["CSo8NSObject", "storage"]
+- ["CSo8NSObject", "swiftyCam"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "CameraSelection"]
+- !private ["PSo16NSObjectProtocol", "Data"]
+- !private ["PSo16NSObjectProtocol", "FIRStorage"]
+- !private ["PSo16NSObjectProtocol", "child"]
+- !private ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "downloadURL"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "put"]
+- !private ["PSo16NSObjectProtocol", "reference"]
+- !private ["PSo16NSObjectProtocol", "storage"]
+- !private ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "init"]
+- !private ["SS", "init"]
+- ["P9SwiftyCam23SwiftyCamButtonDelegate", "CameraSelection"]
+- ["C9SwiftyCam23SwiftyCamViewController", "CameraSelection"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["PSo21UIAppearanceContainer", "CameraSelection"]
+- !private ["PSo21UIAppearanceContainer", "Data"]
+- !private ["PSo21UIAppearanceContainer", "FIRStorage"]
+- !private ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo18UIContentContainer", "CameraSelection"]
+- !private ["PSo18UIContentContainer", "Data"]
+- !private ["PSo18UIContentContainer", "FIRStorage"]
+- !private ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- ["PSo18UIFocusEnvironment", "CameraSelection"]
+- !private ["PSo18UIFocusEnvironment", "Data"]
+- !private ["PSo18UIFocusEnvironment", "FIRStorage"]
+- !private ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["PSo27UIGestureRecognizerDelegate", "CameraSelection"]
+- ["CSo11UIResponder", "CGFloat"]
+- ["CSo11UIResponder", "CGPoint"]
+- ["CSo11UIResponder", "CameraSelection"]
+- !private ["CSo11UIResponder", "Data"]
+- !private ["CSo11UIResponder", "FIRStorage"]
+- ["CSo11UIResponder", "SwiftyCamViewController"]
+- ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "URL"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "swiftyCam"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "CameraSelection"]
+- !private ["PSo30UIResponderStandardEditActions", "Data"]
+- !private ["PSo30UIResponderStandardEditActions", "FIRStorage"]
+- !private ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- ["PSo16UIStateRestoring", "CameraSelection"]
+- !private ["PSo16UIStateRestoring", "Data"]
+- !private ["PSo16UIStateRestoring", "FIRStorage"]
+- !private ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["PSo18UITraitEnvironment", "CameraSelection"]
+- !private ["PSo18UITraitEnvironment", "Data"]
+- !private ["PSo18UITraitEnvironment", "FIRStorage"]
+- !private ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "CGFloat"]
+- ["CSo16UIViewController", "CGPoint"]
+- ["CSo16UIViewController", "CameraSelection"]
+- !private ["CSo16UIViewController", "Data"]
+- !private ["CSo16UIViewController", "FIRStorage"]
+- ["CSo16UIViewController", "SwiftyCamViewController"]
+- ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "URL"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "swiftyCam"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps23_BidirectionalIndexable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "CameraSelection"]
+- !private ["Ps9_Hashable", "Data"]
+- !private ["Ps9_Hashable", "FIRStorage"]
+- !private ["Ps9_Hashable", "child"]
+- !private ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- !private ["Ps9_Hashable", "downloadURL"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "put"]
+- !private ["Ps9_Hashable", "reference"]
+- !private ["Ps9_Hashable", "storage"]
+- !private ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps10_Indexable", "init"]
+- !private ["Ps14_IndexableBase", "init"]
+- !private ["Ps17_MutableIndexable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps22_RandomAccessIndexable", "init"]
+- !private ["Ps26_RangeReplaceableIndexable", "init"]
+depends-nominal:
+- "PSo36AVCaptureFileOutputRecordingDelegate"
+- "Ps9AnyObject"
+- !private "Ps23BidirectionalCollection"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "V10Foundation4Data"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "CSo10FIRStorage"
+- !private "CSo18FIRStorageMetadata"
+- !private "CSo19FIRStorageReference"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- "C10cameraView22MyCameraViewController"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps8Sequence"
+- !private "SS"
+- "P9SwiftyCam23SwiftyCamButtonDelegate"
+- "C9SwiftyCam23SwiftyCamViewController"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AudioToolbox.apinotesc"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Modules/SwiftyCam.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Headers/SwiftyCam-umbrella.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageMetadata.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageReference.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorage.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FirebaseStorage.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Firebase/Core/Sources/Firebase.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageDownloadTask.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageUploadTask.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTask.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageObservableTask.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageConstants.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Headers/SwiftyCam-Swift.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Headers/FIRStorageTaskSnapshot.h"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/Firebase/Core/Sources/module.modulemap"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseStorage/Frameworks/FirebaseStorage.framework/Modules/module.modulemap"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseCore/Frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/build/Debug-iphonesimulator/SwiftyCam/SwiftyCam.framework/Modules/module.modulemap"
+- "/Users/andrew/Desktop/Mobile App Dev/cameraView/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+interface-hash: "c26d775cd0cdd0774f4aab3ca3ebc7be"
